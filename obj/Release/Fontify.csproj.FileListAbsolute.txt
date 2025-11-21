@@ -1,0 +1,11 @@
+H:\Fontify\Fontify\Fontify\bin\Release\Fontify.exe.config
+H:\Fontify\Fontify\Fontify\bin\Release\Fontify.exe
+H:\Fontify\Fontify\Fontify\bin\Release\Fontify.pdb
+H:\Fontify\Fontify\Fontify\bin\Release\Guna.UI2.dll
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.csproj.AssemblyReference.cache
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.Properties.Resources.resources
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.csproj.GenerateResource.cache
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.csproj.CoreCompileInputs.cache
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.csproj.Up2Date
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.exe
+H:\Fontify\Fontify\Fontify\obj\Release\Fontify.pdb
